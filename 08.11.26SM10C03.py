@@ -1,0 +1,6 @@
+a = int(input(" Introdu a: "))
+b = int(input(" Introdu b: "))
+r = range(a,b+1)
+print(r[0])
+print(r[-1])
+print(len(r))
