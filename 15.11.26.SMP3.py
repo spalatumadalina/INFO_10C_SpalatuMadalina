@@ -1,0 +1,5 @@
+t: float = input()
+print(type(t))
+t=float(t)
+print(type(t))
+print(t)
