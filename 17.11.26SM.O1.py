@@ -1,0 +1,6 @@
+a:int = int(input(" Introdu a: "))
+b:int = int(input(" Introdu b: "))
+x:int = int(input(" Introdu x: "))
+locuri = range(a, b+1)
+print(x in locuri)
+print(len(locuri))
